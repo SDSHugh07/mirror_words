@@ -1,0 +1,6 @@
+C:\Users\aitchison\OneDrive\Projects\Development\mirror_words>python test_mirror_words.py
+...............
+----------------------------------------------------------------------
+Ran 15 tests in 0.016s
+
+OK

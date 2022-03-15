@@ -1,0 +1,45 @@
+C:\Users\aitchison\AppData\Local\Programs\Python\Python36\python.exe "C:/Users/aitchison/OneDrive/Projects/Development/mirror_words/mirror_words.py"
+original sentence: 
+mirrored sentence: 
+
+original sentence:  
+mirrored sentence:  
+
+original sentence: ,
+mirrored sentence: ,
+
+original sentence: .
+mirrored sentence: .
+
+original sentence: ..
+mirrored sentence: ..
+
+original sentence: ,.
+mirrored sentence: ,.
+
+original sentence: I
+mirrored sentence: I
+
+original sentence: One
+mirrored sentence: enO
+
+original sentence: One.
+mirrored sentence: enO.
+
+original sentence: .One.
+mirrored sentence: .enO.
+
+original sentence: ..One..
+mirrored sentence: ..enO..
+
+original sentence: One.Two
+mirrored sentence: enO.owT
+
+original sentence: .One.Two.
+mirrored sentence: .enO.owT.
+
+original sentence: ..One..Two..
+mirrored sentence: ..enO..owT..
+
+original sentence: One two, I three.  Four.
+mirrored sentence: enO owt, I eerht.  ruoF.
